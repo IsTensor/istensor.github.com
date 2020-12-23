@@ -1,6 +1,6 @@
-title: VSZHub
+title: istensor
 description: The homepage of Songzi Vong
-url: https://vszhub.github.io
+url: https://istensor.github.io
 avatar: /assets/img/avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -49,7 +49,7 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: istensor
   card: summary
 logo: logo.png
 social:
