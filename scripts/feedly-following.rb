@@ -4,7 +4,7 @@ require 'json'
 
 list = JSON.parse(ARGV[0])
 list.sort! { |a,b| b['subscribers'] <=> a['subscribers'] }
-list = list.select { |elem| elem['title'] != 'VSZHub' }
+list = list.select { |elem| elem['title'] != 'IsTensor' }
 
 data = "---\nlayout: page\ntitle: Following\npermalink: /following/\n---\n"
 data += "| Blogs | Feedly Subscribers |\n|:--- |:--- |\n"

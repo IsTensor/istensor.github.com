@@ -13,7 +13,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Songzi Vong"
+      author: "Ethan Wang"
       image: "assets/img/avatar.jpeg"
       share: true
   - scope:
@@ -21,7 +21,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      author: "Songzi Vong"
+      author: "Ethan Wang"
       image: "assets/img/avatar.jpeg"
 
 # Gems
@@ -55,8 +55,8 @@ logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    # - https://twitter.com/vszhub
+    - https://github.com/isTensor
 google_site_verification: xxxxx
 lang: en
 
@@ -69,13 +69,11 @@ sass:
 # Replace this value and uncomment to enable Google Analytics tracking
 google_analytics: UA-179353572-1
 
-# Replace this value and uncomment to enable Disqus
-disqus: vszhub
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Ethan Wang
+  url: https://github.com/isTensor/
+  email: istensor@gmail.com
 
 remote_theme: vszhub/not-pure-poole

@@ -1,3 +1,3 @@
-# The Homepage of Songzi Vong
+# Ethan's Blog
 
-[vszhub.github.io](https://vszhub.github.io)
+Desigined by [vszhub.github.io](https://vszhub.github.io)
