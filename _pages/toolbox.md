@@ -4,16 +4,16 @@ title: Toolbox
 permalink: /toolbox/
 ---
 
-## Photo Editors
+## Forums
+- [V2ex](https://v2ex.com/) 
 
-- [Lunapic](https://www8.lunapic.com/editor/)
 
-## Image Compressions
+## Coding Tools
+- [C++ Insights](https://cppinsights.io/)
+- [LeetCode](https://leetcode.com/)
+- [C++ Style Google](https://zh-google-styleguide-neroldy.readthedocs.io/zh_CN/latest/google-cpp-styleguide/headers.html)
+- [Typing Traning with Code](https://typing.io/lessons)
 
-- [pngcrush](https://pmt.sourceforge.io/pngcrush/)
-- [jpegtran](http://jpegclub.org/jpegtran/)
-- [gifsicle](http://www.lcdf.org/gifsicle/)
-
-## Search Engines
-
-- [Jiumo Search 鸠摩搜索- 文档搜索引擎](https://www.jiumodiary.com/)
+## Academic
+- [PaperWeekly](https://www.paperweekly.site/home)
+- [Educative](https://educative.io)
