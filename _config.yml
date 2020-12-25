@@ -51,7 +51,7 @@ exclude:
 twitter:
   username: istensor
   card: summary
-logo: logo.png
+# logo: logo.png
 social:
   name: Ethan Wang
   links:
