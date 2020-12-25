@@ -1,6 +1,7 @@
-- title: Feed
-  url: /feed.xml
-  icon: fas fa-rss
+# - title: Feed
+#   url: /feed.xml
+#   icon: fas fa-rss
+
 - title: Email
   url: mailto://isethanw@gmail.com
   icon: fas fa-envelope
@@ -13,5 +14,6 @@
 - title: GitHub
   url: https://github.com/isTensor
   icon: fab fa-github
+  
 # - title: Stack Overflow
 #   icon: fab fa-stack-overflow

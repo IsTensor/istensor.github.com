@@ -15,5 +15,3 @@ permalink: /following/
 | [A. Jesse Jiryu Davis](https://emptysqua.re/blog/) | 420 |
 | [What's new](https://terrytao.wordpress.com) | 386 |
 | [Sleep For Success](https://jamesmaas.com) | 2 |
-
-2020-10-08 22:55:45 +0800

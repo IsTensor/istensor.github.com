@@ -5,7 +5,7 @@ permalink: /toolbox/
 ---
 
 ## Forums
-- [V2ex](https://v2ex.com/) 
+- [V2EX](https://v2ex.com/) 
 
 
 ## Coding Tools
